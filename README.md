@@ -154,3 +154,7 @@ The frontend will be available at `http://localhost:3000`
 ## License
 
 This project is licensed under the MIT License.
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/df3744fe-2ccf-464c-bb3c-7b0944b1941e" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9c712244-7953-43ce-a405-f6619a41f6d6" />
+
